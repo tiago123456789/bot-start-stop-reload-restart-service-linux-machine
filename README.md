@@ -1,3 +1,8 @@
+The project:
+=============
+
+The project allow using whatsapp bot where person send command to restart, reload, start, stop service linux in one machine that is running agent application the simple form.
+
 Instruction settings applications:
 ==================================
 - Clone project
