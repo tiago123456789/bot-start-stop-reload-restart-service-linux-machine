@@ -3,7 +3,7 @@ The project:
 
 The project allow using whatsapp bot where person send command to restart, reload, start, stop service linux in one machine that is running agent application the simple form.
 
-The flow project:
+The project flow:
 =================
 - Person interact whastapp bot, choose agent application running one machine, after choose one someone action: stop, start, restart and reload.
 - After person informate data necessary whatsapp bot send data to pub/sub service
